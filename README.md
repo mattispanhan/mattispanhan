@@ -1,7 +1,7 @@
 # Hi there 👋
 
-I`m Mattis Parnet Hanczakowski,
-An entrepreneurial-minded student focused on digital business.
+# I`m Mattis Parnet Hanczakowski,
+# An entrepreneurial-minded student focused on digital business.
 
 ### 💻 I love working with
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
