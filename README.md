@@ -1,41 +1,40 @@
 # Hi there 👋
 
-I'm using **HTML, CSS, and JavaScript** to make websites dance 💃.  
+I`m Mattis Parnet Hanczakowski,
+An entrepreneurial-minded student focused on digital business.
 
 ### 💻 I love working with
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=flat&logo=gatsby&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=fff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=fff)
+![Claude](https://img.shields.io/badge/-Claude-D97757?logo=claude&logoColor=fff)
 
 ---
 
 ### 🚀 I'm working on
-- Projects for freelance clients  
-- Growing [Upbeat Code](https://example.com) to **100k+/month visitors**
+- My second app, designed to help students and businesses discover new ways to collaborate  
+- Finishing my final semester in Computer Science (Cégep)
 
 ---
 
 ### 🌱 I'm learning
-![Hyperledger](https://img.shields.io/badge/-Hyperledger-2F3134?style=flat&logo=hyperledger&logoColor=fff)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=fff)
-![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=fff)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-8A2BE2?style=flat&logo=openai&logoColor=fff)
+![Business Strategy](https://img.shields.io/badge/-Business%20Model%20Optimization-2E8B57?style=flat&logo=briefcase&logoColor=fff)
+![AI Development](https://img.shields.io/badge/-AI%20Driven%20Coding-FF4500?style=flat&logo=artificial-intelligence&logoColor=fff)
 
 ---
 
-### 🤝 I'm looking for help with
-- Integrating AI models into web applications  
+### 🤝 I'm looking for
+- An internship in a tech / digital oriented position in Toronto
 
 ---
 
 ### 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/yourprofile)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=fff)](https://twitter.com/yourhandle)  
-[![Portfolio](https://img.shields.io/badge/-Website-000?style=flat&logo=google-chrome&logoColor=fff)](https://yourwebsite.com)  
-[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=fff)](https://medium.com/@yourhandle)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/mattis-parnet-hanczakowski-46a1ba362)  
 
 ---
 
-### ⚡ Fun fact
-I'm definitely **not a cat person** 🐶
+### ⚡ Fact about me
+I'm young and really ambitious.
+My goal is to combine my entrepreneurial mindset with my passion for the digital world to create some impactful project !
