@@ -13,7 +13,7 @@ An entrepreneurial-minded student focused on digital business.
 ---
 
 ### 🚀 I'm working on
-- My second business, **Seelfo**.
+- My second business, **Seelfo**.\
   Seelfo is a new kind of “marketplace” that connects students with local businesses. The goal is to help students maintain a healthy balance between their studies and their source of income.
   Seelfo isn’t just beneficial for students, local businesses benefit from it too. In times when hiring is difficult and job shortages are increasing, Seelfo helps improve sales and reduces the need for full-time employees.
   
