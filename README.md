@@ -13,7 +13,10 @@ An entrepreneurial-minded student focused on digital business.
 ---
 
 ### 🚀 I'm working on
-- My second app, designed to help students and businesses discover new ways to collaborate  
+- My second business, **Seelfo**.
+  Seelfo is a new kind of “marketplace” that connects students with local businesses. The goal is to help students maintain a healthy balance between their studies and their source of income.
+  Seelfo isn’t just beneficial for students, local businesses benefit from it too. In times when hiring is difficult and job shortages are increasing, Seelfo helps improve sales and reduces the need for full-time employees.
+  
 - Finishing my final semester in Computer Science (Cégep)
 
 ---
@@ -33,8 +36,3 @@ An entrepreneurial-minded student focused on digital business.
 ### 📫 How to reach me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=fff)](https://linkedin.com/in/mattis-parnet-hanczakowski-46a1ba362)  
 
----
-
-### ⚡ Fact about me
-I'm young and really ambitious.
-My goal is to combine my entrepreneurial mindset with my passion for the digital world to create some impactful project !
