@@ -28,6 +28,15 @@ An entrepreneurial-minded student focused on digital business. I'm 19, finishing
 
 ---
 
+### 👍 Findemp
+[Findemp.com]([url](https://findemp.com/)) (All UI design and code were created by me)
+
+Findemp was a business I almost launched, but I decided to stop working on it because Seelfo (my second business) was a better idea in my opinion.
+
+Findemp was designed to showcase a new way of acquiring employees for businesses. The goal was to combine AI, algorithms, and human expertise to help companies find the right talent faster, at a lower cost, and with higher quality. The algorithms would have been able to source talent from any country (based on the company’s needs) and, with the help of AI, filter candidates to ensure they aligned with the company’s vision.
+
+---
+
 ### 🤝 I'm looking for
 - An internship in a tech / digital oriented position in Toronto
 
