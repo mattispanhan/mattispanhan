@@ -29,7 +29,7 @@ An entrepreneurial-minded student focused on digital business. I'm 19, finishing
 ---
 
 ### 👍 Findemp
-[Findemp.com]([url](https://findemp.com/)) (All UI design and code were created by me)
+[Findemp.com](https://findemp.com/) (All UI design and code were created by me)
 
 Findemp was a business I almost launched, but I decided to stop working on it because Seelfo (my second business) was a better idea in my opinion.
 
