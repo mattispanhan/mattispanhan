@@ -15,7 +15,7 @@ An entrepreneurial-minded student focused on digital business. I'm 19, finishing
 ### 🚀 I'm working on
 - My second business, **Seelfo**
   
-- Finishing my final semester in Computer Science (Cégep)
+- My studies in Statistics and Computer Science at McGill University
 
 ---
 
