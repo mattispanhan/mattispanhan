@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### I'm Mattis Parnet Hanczakowski, 
-An entrepreneurial-minded student focused on digital business. I'm 19, finishing my final semester of Computer Science at Cegep, and ambitiously pursuing my goal of combining my entrepreneurial mindset with my passion for the digital world.
+An entrepreneurial-minded student focused on digital business. I'm 20, student in Statistics and Computer Science at McGill, and ambitiously pursuing my goal of combining my entrepreneurial mindset with my passion for the digital world.
 
 ### 💻 I love working with
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
